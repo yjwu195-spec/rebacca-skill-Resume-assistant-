@@ -1,0 +1,6 @@
+interface:
+  display_name: "求职投递助手"
+  short_description: "明确调用后分析当次岗位、推荐本地简历、起草投递材料并经确认登记原表"
+  default_prompt: "使用 $rebacca（对话口令 $Rebacca）求职投递助手处理我本次指定的岗位。"
+policy:
+  allow_implicit_invocation: false

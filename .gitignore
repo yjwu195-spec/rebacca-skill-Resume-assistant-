@@ -1,0 +1,14 @@
+# 本机配置与个人源文件不进入仓库
+**/local-settings.json
+*.local.json
+*.xlsx
+*.xls
+*.pdf
+*.doc
+*.docx
+__pycache__/
+*.pyc
+.env
+.env.*
+tmp/
+*-verification.json
